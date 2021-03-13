@@ -1,0 +1,16 @@
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\Assigment.exe
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\Assigment.deps.json
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\Assigment.runtimeconfig.json
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\Assigment.runtimeconfig.dev.json
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\Assigment.dll
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\ref\Assigment.dll
+C:\Users\User\3D Objects\testingD\Assigment\bin\Debug\net5.0\Assigment.pdb
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.csprojAssemblyReference.cache
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.AssemblyInfoInputs.cache
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.AssemblyInfo.cs
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.dll
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\ref\Assigment.dll
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.pdb
+C:\Users\User\3D Objects\testingD\Assigment\obj\Debug\net5.0\Assigment.genruntimeconfig.cache
